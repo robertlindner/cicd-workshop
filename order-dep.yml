@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
       - name: otoorders
-        image: otomato/springorders:master
+        image: rlindner/springorders:master
         ports:
         - containerPort: 8080
